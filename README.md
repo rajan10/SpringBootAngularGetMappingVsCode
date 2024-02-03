@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 This is the frontend part of the application and the backend application is
-[Spring Boot Application](https://github.com/rajan10SpringBootBackendPartOfSpringBootAngularGetMappingVsCode/tree/main/01_SB_App)
+[Spring Boot Application](
+https://github.com/rajan10/SpringBootBackendPartOfSpringBootAngularGetMappingVsCode/tree/main/01_SB_App)
 
    <ul>
     <li> Backend application is developed using Spring Boot with HTTP Get Method (GetMapping) and @CrossOrigins annotation is added below @RestController  </li>
